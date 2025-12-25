@@ -1,7 +1,7 @@
 is a high-performance Discord exploitation framework designed for silent IP/ISP tracking and network auditing. It utilizes sophisticated redirection techniques to bypass Discord's security filters, masking a tracking node as a high-resolution media content.
 
-🏷️ Project Tags
-#Discord-Nuke #Discord-Exploit #IP-Logger #Webhook-Spammer #Silent-Tracker #Social-Engineering-Tool #Discord-Security #Advanced-Phishing #Ngrok-Bypass
+## 🏷️ Tags
+`#Discord-Nuke` `#IP-Logger` `#Starva-V2` `#Exploit` `#Discord-Exploitation`
 
 🛠️ Core Capabilities
 Stealth Infiltration: Masks tracking URLs behind an ActionRow Button interface for maximum click-through rates.
