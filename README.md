@@ -12,7 +12,7 @@ Before running the engine, ensure you have Node.js installed and an active Disco
 
 1. Repository Setup
 Bash
-git clone https://github.com/your-username/starva-v2.git
+git clone https://github.com/your-username/Starva-image-longger.git
 cd starva-v2
 2. Dependency Injection (NPM)
 Install the required modules to initialize the Starva core:
